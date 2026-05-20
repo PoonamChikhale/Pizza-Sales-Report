@@ -107,6 +107,8 @@ By analyzing top and low-performing products, businesses can optimize menu strat
 
 
 Screenshots:
-https://github.com/PoonamChikhale/Pizza-Sales-Report/blob/main/Screenshot%20of%20the%20Dashboard1.jpg
-https://github.com/PoonamChikhale/Pizza-Sales-Report/blob/main/Screenshot%20of%20the%20Dashboard2.jpg
+![Dashboard Preview].(https://github.com/PoonamChikhale/Pizza-Sales-Report/blob/main/Screenshot%20of%20the%20Dashboard1.jpg).
+![Dashboard Preview].https://github.com/PoonamChikhale/Pizza-Sales-Report/blob/main/Screenshot%20of%20the%20Dashboard2.jpg),
+
+
 
